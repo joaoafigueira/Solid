@@ -1,2 +1,2 @@
-# Solid
-SOLID Principles
+# SOLID
+A repository to learn Solid principles using C#
